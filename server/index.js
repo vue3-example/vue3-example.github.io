@@ -59,7 +59,7 @@ const db = {
   //데이터베이스 연동
   database: "project01",
   connectionLimit: 10,
-  host: "svc.sel5.cloudtype.app:31585", //127.0.0.1   //svc.sel5.cloudtype.app  //31585
+  host: "svc.sel5.cloudtype.app", //127.0.0.1   //svc.sel5.cloudtype.app  //31585
   user: "root",
   password: "1234",
 };
